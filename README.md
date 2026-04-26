@@ -27,3 +27,7 @@ To use this simulator, follow these steps:
 
 ## Further Exploration
 The provided scripts demonstrate various ways to work with the simulator, from inspecting protobuf messages to testing node behavior. Feel free to modify and extend these scripts as needed for your specific use cases or experimentation.
+
+## More from Karelseaat
+
+For more projects and experiments, visit my GitHub Pages site: [karelseaat.github.io](https://karelseaat.github.io/)
